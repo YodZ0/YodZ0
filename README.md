@@ -1,16 +1,15 @@
 ## Hi there 👋
+I am a Backend Developer with 3 years of experience.
+I focus on building REST APIs, designing efficient database schemas, and optimizing application perfomance.
+I enjoy creating secure, scalable applications and writing clean and easy-to-understand code.
 
-<!--
-**YodZ0/YodZ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools & Tech
+- Backend: Python 3.12+, FastAPI, SQLAlchemy 2.0+, Pydantic 2.0+, asyncio
+- Data: PostgreSQL, Redis, S3-compatible storage
+- Messaging & Tasks: RabbitMQ, Celery
+- DevOps & Monitoring: Docker, Docker-compose, Grafana, Loki, Prometheus
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Side skills
+- Frontend: JavaScript, React, Tailwind
+- Design & Planning: Miro, Figma, DrawIO
+- Teamwork: Trello, Jira

@@ -1,17 +1,26 @@
-## Hi there 👋
-I am a Backend Developer with 5 years of experience.
+# Backend Developer - Python, FastAPI, PostgreSQL
 
-I focus on building REST APIs, designing efficient database schemas, and optimizing application perfomance.
+I build production systems end-to-end: from requirements and architecture to CI/CD and monitoring.
 
-I enjoy creating secure, scalable applications and writing clean and easy-to-understand code.
+Over the past two years I was the sole engineer behind two production systems - a **procurement ERP** and a **clinical patient registry** - covering backend, frontend, deployment and observability.
 
-## Tools & Tech
-- **Backend**: Python 3.10+, FastAPI, SQLAlchemy 2.0+, Pydantic 2.0+, asyncio
-- **Data**: PostgreSQL, Redis, S3-compatible storage
-- **Messaging & Tasks**: RabbitMQ, Celery
-- **DevOps & Monitoring**: Docker, Docker-compose, Grafana (+Alloy), Loki, Prometheus
+## Stack
 
-## Side skills
-- **Frontend**: JavaScript, React, Tailwind
-- **Design & Planning**: Miro, Figma, DrawIO
-- **Teamwork**: Trello, Jira
+- **Backend** - Python 3.10+, FastAPI, asyncio, SQLAlchemy 2.0+, Pydantic 2.0+, Alembic
+- **Data** - PostgreSQL, Redis, S3-compatible storage
+- **Infrastructure** - Docker, Docker Compose, GitLab CI/CD, Linux, VPS
+- **Observability** - Grafana, Prometheus, Loki, Alloy
+- **Frontend** - TypeScript, React, Tailwind, shadcn/ui
+- **Architecture & quality** - REST API, DDD, Clean Architecture, FSD, ABAC/RBAC, pytest (unit + integration)
+- **AI-assisted development** - agents, skills and rules, spec-driven development
+- **Design & planning** - Miro, Figma, DrawIO
+
+## Repositories
+
+- [**fa-monitoring-example**](https://github.com/YodZ0/fa-monitoring-example) - FastAPI application wired up with Grafana, Prometheus and Loki
+- [**fastapi-starter**](https://github.com/YodZ0/fastapi-starter) - FastAPI project template
+
+## Contact
+
+- LinkedIn: comming soon
+- Telegram: [@nnnbscr]

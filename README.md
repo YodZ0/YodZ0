@@ -17,7 +17,6 @@ Over the past two years I was the sole engineer behind two production systems - 
 
 ## Repositories
 
-- [**fa-monitoring-example**](https://github.com/YodZ0/fa-monitoring-example) - FastAPI application wired up with Grafana, Prometheus and Loki
 - [**fastapi-starter**](https://github.com/YodZ0/fastapi-starter) - FastAPI project template
 
 ## Contact

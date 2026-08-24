@@ -22,5 +22,4 @@ Over the past two years I was the sole engineer behind two production systems - 
 
 ## Contact
 
-- LinkedIn: comming soon
-- Telegram: [@nnnbscr]
+- [LinkedIn](https://www.linkedin.com/in/timur-mustafa-301459377/)
